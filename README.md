@@ -27,6 +27,12 @@
 </p>
 
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=aaaasssshhhhiiiisssshhhh/">
+</a>
+<a href="https://github.com/aaaasssshhhhiiiisssshhhh/?tab=followers"><img src="https://img.shields.io/github/followers/aaaasssshhhhiiiisssshhhh/?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
  

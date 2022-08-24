@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning : React 
+- 🌱 I’m currently learning : everything 
+
 - 📫 How to reach me: find me @aaaasssshhhhiiiisssshhhh
 
 
